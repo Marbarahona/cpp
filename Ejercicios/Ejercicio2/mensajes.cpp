@@ -12,6 +12,5 @@ int main(int argc, char const *argv[])
     cout << endl;
     cout << "Hola mi nombre es " << nombre; 
     cout << endl;
-    /* code */
     return 0;
 }
